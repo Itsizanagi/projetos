@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "inheritEnvironments": [
+        "arquivo local"
+      ],
+      "name": "Mingw64",
+      "includePath": [
+        "${env.INCLUDE}",
+        "${workspaceRoot}\\**"
+      ],
+      "intelliSenseMode": "linux-gcc-x64"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+disassemblar no gdb
+
+"gdb ./arquivo"
+
+"disassemble main"
+
+"x/s endereço"
